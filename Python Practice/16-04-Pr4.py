@@ -16,3 +16,4 @@ root.withdraw()  # Hide the root window
 
 # Call the function
 check_odd_even()
+
